@@ -1,5 +1,5 @@
 # 💰 Smart Interactive Price Tracker
-
+Public testing here ->: https://interactive-price-tracker-fmcituc8gvgepzgqserwnu.streamlit.app/
 ## 🚀 Overview
 
 This project evolves the automated price tracker into a full-stack, interactive web application. Instead of a backend-only script, this is a user-facing tool built with Streamlit that allows users to add, tag, and monitor product prices from various e-commerce sites in real-time.
